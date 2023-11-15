@@ -5,7 +5,7 @@ gem 'rails', '3.0.7'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-gem 'dav4rack'
+gem 'dav4rack', '>= 0.2.9'
 
 # Use unicorn as the web server
 # gem 'unicorn'
